@@ -41,20 +41,20 @@ Portfolio-React/
 ```text
 src/pages/home/
 ├─ HomePage.jsx
-├─ HomePage.css
+├─ HomePage.module.css
 ├─ README.md
 ├─ sections/
 │  ├─ HeroSection/
 │  │  ├─ HeroSection.jsx
-│  │  └─ HeroSection.css
+│  │  └─ HeroSection.module.css
 │  └─ HistorySection/
 └─ assets/
 ```
 
 - 페이지 폴더의 섹션 순서는 실제 화면 순서와 맞춥니다.
-- 페이지 전용 컴포넌트, CSS와 이미지는 페이지 폴더에 둡니다.
+- 페이지 전용 컴포넌트, CSS Module과 이미지는 페이지 폴더에 둡니다.
 - 공통 코드를 페이지에 복사하지 않고 import하여 조립합니다.
-- 공통 컴포넌트 내부 스타일을 페이지 CSS에 복사하지 않습니다.
+- 공통 컴포넌트 내부 스타일을 페이지 CSS Module에 복사하거나 외부에서 직접 덮어쓰지 않습니다.
 
 ## 콘텐츠
 
