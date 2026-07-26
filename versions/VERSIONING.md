@@ -68,6 +68,24 @@ Tablet: 768px
 Desktop: 1440px
 ```
 
+## 언어 표기
+
+한국어와 영어는 별도 버전을 만들지 않습니다. 변경사항에 언어 범위를 명시합니다.
+
+```text
+[KO]
+[EN]
+[KO][EN]
+```
+
+공통 명칭 또는 메타데이터 변경으로 두 언어가 모두 영향받으면 `[KO][EN]`을 표시합니다.
+
+```text
+- [Home][KO] Hero 소개 문구 수정
+- [Home][EN] 직무명 번역 수정
+- [Projects][KO][EN] Hopzie 공통 공식명 수정
+```
+
 ## 공식 기록
 
 - `versions/CHANGELOG.md`: 전체 버전 요약 한 파일
