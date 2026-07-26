@@ -12,6 +12,7 @@
 - [버전관리 허브](versions/README.md)
 - [디자인 시스템 적용표](docs/design-system/component-adoption.md)
 - [디자인 예외 목록](docs/design-system/design-exceptions.md)
+- [공통 명칭 목록](docs/content/shared-terms.md)
 
 ## Ground Rules 읽는 순서
 
@@ -24,3 +25,4 @@
 7. [사용자 확인과 알림](docs/ground-rules/07-review-and-notifications.md)
 8. [CSS와 반응형 스타일](docs/ground-rules/08-css-and-responsive-styles.md)
 9. [디자인 시스템 운영](docs/ground-rules/09-design-system-governance.md)
+10. [콘텐츠와 다국어 관리](docs/ground-rules/10-content-and-localization.md)
