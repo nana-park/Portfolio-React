@@ -115,9 +115,9 @@ CSS Module 클래스는 역할 중심 `camelCase`를 사용합니다.
 기준 화면:
 
 ```text
-+ Desktop: 1025px 이상
-+ Tablet: 768px–1024px
-+ Mobile: 767px 이하
+Desktop: 1025px 이상
+Tablet: 768px–1024px
+Mobile: 767px 이하
 ```
 
 반응형 조정 자체는 디자인 예외가 아닙니다. 디자인 시스템의 모바일 규칙을 벗어날 때만 적용 범위, 이유와 재검토 조건을 기록합니다.
