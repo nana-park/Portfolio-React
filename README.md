@@ -17,3 +17,4 @@
 3. [파일명 규칙](docs/ground-rules/03-naming-conventions.md)
 4. [백업과 릴리스](docs/ground-rules/04-backup-and-release.md)
 5. [개발 작업 흐름](docs/ground-rules/05-development-workflow.md)
+6. [코드 구조와 주석 규칙](docs/ground-rules/06-code-organization-and-comments.md)
