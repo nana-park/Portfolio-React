@@ -12,6 +12,7 @@
 | `06-code-organization-and-comments.md` | WHAT·WHY 주석, 코드 위계와 디자인 예외 |
 | `07-review-and-notifications.md` | 사용자 확인 상태와 알림 |
 | `08-css-and-responsive-styles.md` | CSS Modules, 스타일 소유권과 반응형 규칙 |
+| `09-design-system-governance.md` | 디자인 시스템 범위, 예외 승인과 기록 |
 
 버전 번호와 변경 이력은 찾기 쉽도록 최상단 [`versions/`](../../versions/README.md)에서 관리합니다.
 
