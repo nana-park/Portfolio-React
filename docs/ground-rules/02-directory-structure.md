@@ -30,6 +30,9 @@ Portfolio-React/
 │  │  ├─ hooks/
 │  │  └─ utils/
 │  ├─ content/
+│  ├─ locales/
+│  │  ├─ ko/
+│  │  └─ en/
 │  ├─ config/
 │  ├─ styles/
 │  └─ main.jsx
@@ -61,6 +64,8 @@ src/pages/home/
 기획자가 확인하거나 자주 바꿀 수 있는 이름, 소개 문구, 프로젝트 설명, 역할, 기간, 성과, 태그, 링크, 연락처와 버튼 문구는 `src/content/`에 둡니다.
 
 색상, 간격, Grid, 애니메이션, 라우팅과 상태 처리는 콘텐츠가 아닙니다.
+
+공통 공식 명칭은 `docs/content/shared-terms.md`를 문서 기준으로 삼고, 구현 시 `src/content/shared/terms.js`의 단일 원본으로 관리합니다. 반복 UI 문구는 `src/locales/ko/`, `src/locales/en/`에 둡니다.
 
 ## 페이지 README 생성 조건
 
