@@ -21,3 +21,4 @@
 5. [개발 작업 흐름과 테스트](docs/ground-rules/05-development-workflow.md)
 6. [코드 구조와 주석](docs/ground-rules/06-code-organization-and-comments.md)
 7. [사용자 확인과 알림](docs/ground-rules/07-review-and-notifications.md)
+8. [CSS와 반응형 스타일](docs/ground-rules/08-css-and-responsive-styles.md)
